@@ -1,0 +1,4 @@
+# Dependências do Trabalho 2.
+
+# NumPy: álgebra linear para o modelo de risco (Req. 4).
+numpy>=1.26,<2.0
